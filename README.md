@@ -1,9 +1,8 @@
 # Youtube-Audio-Fixer [Chrome-Extension]
 Fix audio on the basis that one side(channel) is playing and the other is not, or one is louder than the other! This was mainly created to remedy headphone annoyances~
 ###### Official Extension - [For Users]
-```
 https://chrome.google.com/webstore/detail/youtube-audio-fixer/kffimnekdgebaakicpmjkpafgkfejdmi?hl=en&gl=US
-```
+
 
 ## Installing [For Developers]
 
